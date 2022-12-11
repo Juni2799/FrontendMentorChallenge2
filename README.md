@@ -24,8 +24,8 @@ It is a site for improving your front-end development skills.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution-Link](https://www.frontendmentor.io/solutions/qr-code-component-f_CEKu8o8B)
+- Live Site URL: [Netlify-Link](https://imaginative-panda-3b5369.netlify.app/)
 
 ## My process
 
@@ -37,5 +37,5 @@ It is a site for improving your front-end development skills.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Juni2799](https://www.frontendmentor.io/profile/Juni2799)
+- Twitter - [@akshaan_khanna](https://www.twitter.com/akshaan_khanna)
